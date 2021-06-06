@@ -1,0 +1,6 @@
+[submodule "frontend/timebox-web"]
+	path = frontend/timebox-web
+	url = https://github.com/robertbennett1998/timebox-web.git
+[submodule "backend/timebox-backend"]
+	path = backend/timebox-backend
+	url = https://github.com/robertbennett1998/timebox-backend.git
